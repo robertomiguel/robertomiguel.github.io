@@ -1,0 +1,38 @@
+body {
+    background-image    : url('/img/fondomarcas2.jpg');
+    padding             : 0;
+    margin              : 0;
+    margin-top          : 10px
+}
+
+.panel {
+    display: table;
+    margin: 0 auto;
+    background-color: #59292929;
+    text-align: center;
+    
+}
+
+.panel img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    background-color: red;
+    color: white;
+}
+
+.sombra {
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.redondearBorde {
+    border-radius: 15px;
+}
+
+.bordeRojo {
+    border-color: red;
+    border: solid 2px;
+}
